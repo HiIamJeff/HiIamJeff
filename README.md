@@ -1,16 +1,21 @@
-### Hi there 👋
-Welcome to Jeff's Github!
+## Hi there, this is Jeff Lu's GitHub!
+</p>
 
+### Data Speaks Stronger than just Words!
 
-- 🔭 I’m currently working on ... Python
-- 🌱 I’m currently learning ... Anomaly Detection
-- 👯 I’m looking to collaborate on ... Challenging Data Work
-- 🤔 I’m looking for help with ... Analysis Project
-- 💬 Ask me about ... What is Temporal Pincer Movement?
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/jefflu-chia-ching-lu/)
-- ⚡ Fun fact: ... My favorite Subreddits are [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) & [r/dataisugly](https://www.reddit.com/r/dataisugly)
--->
+#### 🤵 About Me:
+- 🎓 Master degree at Columbia University
+- 💼 Three-year full-time work experience in different industries
+- 🎯 Data analyst internship at real estate tech company in New York City
+- 💻 Working on ``` .py```, ``` .ipynb```, ``` .R```, ```.sql``` daily
+- 💪 What excites me: Real estate, Crime data analysis, and Challenging projects!  
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jefflu-chia-ching-lu/)
+- ⚡ Fun fact: My favorite Subreddits are [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful) & [r/dataisugly](https://www.reddit.com/r/dataisugly)
+</p>
 
+---
+### Check out my latest project
+[Spotting the Curves in the US: A Better Overview & Dashboard for COVID-19 in the United States](https://coronavirus-in-us.herokuapp.com/)
 
-### Latest Medium Work
+### Check out my latest article
 [![Jeff's Medium](https://github-readme-medium.vercel.app/?username=a1080211jeff)](https://medium.com/@a1080211jeff)
