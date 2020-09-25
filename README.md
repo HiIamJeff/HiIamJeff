@@ -1,6 +1,8 @@
 ## Hi there, this is Jeff Lu's GitHub!
 </p>
 
+![Image of NYC](/Picture111.png)
+
 ### Data Speaks Stronger than just Words!
 
 #### 🤵 About Me:
@@ -14,8 +16,8 @@
 </p>
 
 ---
-### Check out my latest project
+### Check out my latest project!
 [Spotting the Curves in the US: A Better Overview & Dashboard for COVID-19 in the United States](https://coronavirus-in-us.herokuapp.com/)
 
-### Check out my Medium
+### Check out my Medium!
 [![Jeff's Medium](https://github-readme-medium.vercel.app/?username=a1080211jeff)](https://medium.com/@a1080211jeff)
