@@ -17,9 +17,8 @@
 
 ---
 ### Check out my latest project!
-[Spotting the Curves in the US: A Better Overview & Dashboard for COVID-19 in the United States](https://coronavirus-in-us.herokuapp.com/)
+[Showcase for bank credit data with Spark and Polars (and Streamlit!)](https://github.com/HiIamJeff/project-bank-credit/tree/main)
 
-p.s. The app is offline since Herouku dropped the free tier
 
 ### Check out my Medium!
 [![Jeff's Medium](https://github-readme-medium.vercel.app/?username=a1080211jeff)](https://medium.com/@a1080211jeff)
